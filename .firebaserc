@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sistema-de-admin-de-autos": {
+      "hosting": {
+        "administracion": [
+          "sistema-de-admin-de-autos"
+        ]
+      }
+    }
+  }
+}
